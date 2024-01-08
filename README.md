@@ -1,6 +1,6 @@
 <h1>Auto Retry Star Rail</h1>
 <p>Auto script retry Star Rail for lazy farming relic <b>Like Me</b></p> 
-<p>and yeah this first python i made></p> 
+<p>and yeah this first python i made</p> 
 
 > [!CAUTION]
 > Disclaimer: By using this script, you acknowledge and accept full responsibility for any potential consequences, including the risk of being banned. The author of this script is not liable for any actions taken against your account or any other related outcomes. so USE YOUR OWN RISK.

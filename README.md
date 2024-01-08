@@ -19,6 +19,7 @@
 <p>Run:</p>
 
 ```
+
 pip install pillow pyautogui
 python main.py
 

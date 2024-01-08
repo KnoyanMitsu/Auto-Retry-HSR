@@ -14,15 +14,13 @@
 * pyautogui
 * pillow
 
-<h2>How to user:</h2>
+<h2>How to use:</h2>
 
 <p>Run:</p>
 
 ```
-
 pip install pillow pyautogui
 python main.py
-
 ```
 
 <p>Stop:</p>

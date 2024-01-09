@@ -6,7 +6,7 @@
 > Disclaimer: By using this script, you acknowledge and accept full responsibility for any potential consequences, including the risk of being banned. The author of this script is not liable for any actions taken against your account or any other related outcomes. so USE YOUR OWN RISK.
 
 > [!WARNING]
-> This script auto retry and auto recharge using stella jade, traiblazer power,traiblazer power recovery gone. so WATCH IT if done CTRL+C on terminal/CMD. if you have idea Pull Request it
+> This script auto retry and auto recharge using stella jade, traiblazer power,traiblazer power recovery. so ALWAYS WATCH IT if done CTRL+C on terminal/CMD. if you have idea Pull Request it
 
 <h2>Installation</h2>
 <p>Requirement:</p>

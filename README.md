@@ -13,14 +13,23 @@
 
 * Python3
 * pyautogui
+* msvcrt (Windows)
+* getch (Linux)
 * pillow
 
 <h2>How to use:</h2>
 
 <p>Run:</p>
 
+Windows:
 ```
-pip install pillow pyautogui
+pip install pillow pyautogui msvcrt
+python main.py
+```
+
+Linux:
+```
+pip install pillow pyautogui getch
 python main.py
 ```
 
